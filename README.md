@@ -29,10 +29,6 @@ Teamplayer • Verantwortungsbewusst • Lernbereit • Problemlösungsorientier
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stiwyy&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stiwyy&layout=compact&theme=tokyonight)  
-
-
-## 🐍 Contributions
-
 ![GitHub Snake Light](https://raw.githubusercontent.com/Stiwyy/Stiwyy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Stiwyy/Stiwyy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
