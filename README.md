@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey, ich bin Andrin Renggli
 
-<!--
-**Stiwyy/Stiwyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Schüler mit Fokus auf Informatik & Wirtschaft
+🚀 Begeistert von Softwareentwicklung, Gaming und Sport  
+📍 Truttikon, Schweiz  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+- 🎓 Ausbildung: Informatikmittelschule IMS (laufend)  
+- 🌱 Ich lerne aktuell: **Fullstack Development**  
+- 🏆 Interessen: Programmieren • Gaming • Sport    
+
+---
+
+## 🛠 Skills
+
+**Sprachen & Tools:**  
+Java • HTML • CSS • JavaScript • Python(Grundkenntisse) • Rust(Grundkenntisse) • SQL • React • Nodejs • Springboot • Docker • Git & GitHub • Bash  
+
+**Soft Skills:**  
+Teamplayer • Verantwortungsbewusst • Lernbereit • Problemlösungsorientiert • Eifrig • Kritikfähig  
+
+---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stiwyy&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stiwyy&layout=compact&theme=tokyonight)  
+
+
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Stiwyy/Stiwyy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Stiwyy/Stiwyy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+## 📫 Kontakt
+
+📧 E-Mail: andrinrenggli@outlook.com 
+🏠 Standort: Schweiz  
