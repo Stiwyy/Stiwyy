@@ -41,4 +41,4 @@ Teamplayer • Verantwortungsbewusst • Lernbereit • Problemlösungsorientier
 ## 📫 Kontakt
 
 📧 E-Mail: andrinrenggli@outlook.com 
-🏠 Standort: Schweiz  
+
