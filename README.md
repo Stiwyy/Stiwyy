@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Andrin Renggli
 
-💻 Schüler mit Fokus auf Informatik & Wirtschaft
+💻 Schüler mit Fokus auf Informatik & Wirtschaft    
 🚀 Begeistert von Softwareentwicklung, Gaming und Sport  
 📍 Truttikon, Schweiz  
 
