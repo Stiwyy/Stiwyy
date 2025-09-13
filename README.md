@@ -16,7 +16,7 @@
 ## 🛠 Skills
 
 **Sprachen & Tools:**  
-Java • HTML • CSS • JavaScript • Python(Grundkenntisse) • Rust(Grundkenntisse) • SQL • React • Nodejs • Springboot • Docker • Git & GitHub • Bash  
+Java • HTML • CSS • JavaScript • Python(Grundkenntnisse) • Rust(Grundkenntnisse) • SQL • React • Nodejs • Springboot • Docker • Git & GitHub • Bash  
 
 **Soft Skills:**  
 Teamplayer • Verantwortungsbewusst • Lernbereit • Problemlösungsorientiert • Eifrig • Kritikfähig  
