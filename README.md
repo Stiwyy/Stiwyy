@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin Andrin Renggli
+# 👋 Hey, ich bin Andrin
 
 💻 Lernender mit Fokus auf Informatik & Wirtschaft    
 🚀 Begeistert von Softwareentwicklung, Gaming und Sport  
@@ -32,9 +32,4 @@ Teamplayer • Verantwortungsbewusst • Lernbereit • Problemlösungsorientier
 ![GitHub Snake Light](https://raw.githubusercontent.com/Stiwyy/Stiwyy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Stiwyy/Stiwyy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
----
-
-## 📫 Kontakt
-
-📧 E-Mail: andrinrenggli@outlook.com 
 
