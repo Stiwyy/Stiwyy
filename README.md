@@ -50,7 +50,8 @@ I am a Full-Stack Developer focused on building web applications.
 
 ### Connect with Me
 
-* **Discord:** `@stey7464`
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/749183588263657502)
+![GitHub](https://img.shields.io/badge/GitHub%20Issues-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
